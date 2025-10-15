@@ -1,4 +1,4 @@
-nginx
+#nginx
 ubuntu
 ubuntu:22.04
 #支持私库
